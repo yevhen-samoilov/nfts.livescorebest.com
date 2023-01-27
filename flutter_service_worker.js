@@ -14,9 +14,10 @@ const RESOURCES = {
 "splash/img/light-1x.png": "6882ffeeff9c191dd4125f28e19047e3",
 "splash/splash.js": "123c400b58bea74c1305ca3ac966748d",
 "splash/style.css": "48bbb5d859f250ad8f9fc620f98e05f1",
-"index.html": "cc7991ff9accee4aa01341eb551bd811",
-"/": "cc7991ff9accee4aa01341eb551bd811",
+"index.html": "20bc630c4163509ac5c62149d2289026",
+"/": "20bc630c4163509ac5c62149d2289026",
 "main.dart.js": "2f27e392b46ea99e41b22eff1a64604f",
+"flutter.js": "f85e6fb278b0fd20c349186fb46ae36d",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
@@ -39,7 +40,11 @@ const RESOURCES = {
 "assets/assets/images/logo.png": "fa3303cf146cc91f6641883f4473fc4d",
 "assets/assets/images/1024x500.png": "88a35f21de2393e8399ca55090797548",
 "assets/assets/images/cup.svg": "e5903baaafc73bd30251b1bbc9fa3fb2",
-"assets/assets/images/logo.svg": "54be8c4e75f2de27d813573f2e6e6a00"
+"assets/assets/images/logo.svg": "54be8c4e75f2de27d813573f2e6e6a00",
+"canvaskit/canvaskit.js": "2bc454a691c631b07a9307ac4ca47797",
+"canvaskit/profiling/canvaskit.js": "38164e5a72bdad0faa4ce740c9b8e564",
+"canvaskit/profiling/canvaskit.wasm": "95a45378b69e77af5ed2bc72b2209b94",
+"canvaskit/canvaskit.wasm": "bf50631470eb967688cca13ee181af62"
 };
 
 // The application shell files that are downloaded before a service worker can
